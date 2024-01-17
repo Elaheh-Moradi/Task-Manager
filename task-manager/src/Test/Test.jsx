@@ -8,7 +8,7 @@ import IconAccountBox from "~icons/mdi/account-box";
 const Test = () => {
   return (
     <>
-      <p>Salam</p>
+      <p>Saalam</p>
       <FontAwesomeIcon icon={faEnvelope} />
       <i className="fa fa-car"></i>
 
